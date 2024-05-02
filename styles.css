@@ -5,14 +5,19 @@
 /* h1, p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 } */
-
-.root-container {
+.heading {
     text-align: center;
 }
-.recipe-list {
-    list-style-type: none;
+.root-container {
+    text-align: center;
+    margin-left: 28%;
+    margin-right: 25%;
 }
 .recipe-image {
-    width: 11rem;
-    height: auto;
+    width: 12rem;
+    height: 11rem;
+}
+.recipe-menu-item {
+    float:left;
+    margin: 2%;
 }
