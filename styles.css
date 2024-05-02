@@ -1,0 +1,13 @@
+* {
+    background-color: bisque;
+}
+.root-container {
+    text-align: center;
+}
+.recipe-list {
+    list-style-type: none;
+}
+.recipe-image {
+    width: 10rem;
+    height: auto;
+}
