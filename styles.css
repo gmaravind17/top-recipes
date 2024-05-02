@@ -1,6 +1,11 @@
 * {
     background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+/* h1, p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} */
+
 .root-container {
     text-align: center;
 }
@@ -8,6 +13,6 @@
     list-style-type: none;
 }
 .recipe-image {
-    width: 10rem;
+    width: 11rem;
     height: auto;
 }
